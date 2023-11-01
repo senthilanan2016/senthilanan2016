@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senthilanan2016&label=Profile%20views&color=0e75b6&style=flat" alt="senthilanan2016" /> </p>
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently pursuing **Data Science - Internships**
 
 - 💬 Ask me about **ML,Python,Statistics,AI,DL,R,Tableau,PowerBI,Advanced Excel**
 
