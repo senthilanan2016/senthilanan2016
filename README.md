@@ -11,7 +11,9 @@
 
 - 🌱 I’m currently pursuing **Data Science - Internships**
 
-- 💬 Ask me about **ML,Python,Statistics,AI,DL,R,Tableau,PowerBI,Advanced Excel, UI/UX Designs**
+- 💬 Ask me about **ML,Python,Statistics,AI,DL,R,Tableau,PowerBI,Advance Excel, UI/UX Designs**
+
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://senthilanan2016.github.io/SenthilKumarKJ_Portfolio/)
 
 - 📫 How to reach me **senthilanan2016@gmail.com**
 
